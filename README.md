@@ -1,2 +1,8 @@
-# ContactUs-page-react
-A Contact page consisting of brief information and a form below it that can be submitted and the data changes below as soon as new data is entered in the form, this was a way of learning about useStates and using them to display data on the screen. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
